@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  font-size: 30px;
+  cursor: pointer;
+  text-align: center;
+  background: grey;
+  color: white;
+}
+h2 {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 1px solid black;
+  display: grid;
+  align-content: center;
+  font-size: 50px;
+}
+.counter {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
